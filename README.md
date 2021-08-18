@@ -19,9 +19,12 @@ https://docs.google.com/spreadsheets/d/1lviHKlzITRJp5B_SmQQzQU8hsKNLKWnD/edit?us
 
 2. Faça uma cópia local (clone) deste repositorio "caracterizacao".
 
-3. Crie uma pasta/folder local no repositório "caracterizacao" usando se nome de usuário prefixado por "T1-". Por exemplo, a minha pasta será: 
+3. Crie uma pasta/folder local no repositório "caracterizacao" usando seu nome de usuário prefixado por "T1-". Por exemplo, a minha pasta será: 
 ```T1-christinaflachufba```.
 
-4. As informações de caracterização devem ser colocadas em sua pasta pessoal, incrementalmente, à medida em que os exercícios as solicitarem e disponibilizadas no repositório remoto nas datas indicadas. __IMPORTANTE:__ Usar apenas um arquivo markdown (.md).
+4. As informações de caracterização devem ser colocadas em sua pasta pessoal, incrementalmente, à medida em que os exercícios as solicitarem e disponibilizadas no repositório remoto, via _pull request_ nas datas que serão indicadas. __IMPORTANTE:__ Usar apenas um arquivo markdown (.md).
 
-5. Um _template padrão_ com formato e informações mínimas de caracterização para as linguagens escolhidas será disponibilizado. 
+5. Um _template padrão_ com formato e informações mínimas de caracterização para as linguagens escolhidas será disponibilizado. Informações adicionais às solicitadas podem ser livremente adicionadas pelo estudante no final do arquivo .md  __IMPORTANTE:__ Copiar o arquivo _template.md_ para sua pasta pessoal, e renomear, colocando seu usuário github explicitamente no nome. Por exemplo, o meu arquivo será: 
+```christinaflachufba.md```.
+
+(em construção)
