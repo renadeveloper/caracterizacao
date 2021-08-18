@@ -3,15 +3,15 @@
 Caracterização de linguagens de programação.
 ## Fora do GitHub
 
-1. Escolha duas linguagens de programação para caracterizar (descrever decisões de projeto e atributos) ao longo do semestre. A primeira liguagem de programação* (1) é de livre escolha e deve ter sido projetada após 1990 e ter uma comunidade ativa de usuários. A segunda linguagem de programação** (2) deve ser diferente da primeira e dar suporte à programação funcional ou concorrente. __As duas escolhas precisam ser confirmadas até 23/8/2021__.
+1. Escolha duas linguagens de programação para caracterizar (descrever decisões de projeto e atributos) ao longo do semestre. A primeira liguagem de programação (1) é de livre escolha e deve ter sido projetada após 1990 e ter uma comunidade ativa de usuários. A segunda linguagem de programação (2) deve ser diferente da primeira e dar suporte à programação funcional ou concorrente. __As duas escolhas precisam ser confirmadas até 23/8/2021__.
 
 2. Indique as linguagens escolhida na planilha (colunas G e H):
 
 https://docs.google.com/spreadsheets/d/1lviHKlzITRJp5B_SmQQzQU8hsKNLKWnD/edit?usp=sharing&ouid=112023691236201550699&rtpof=true&sd=true 
 
-* Até 5 estudantes por LP	(1)
+(1) Até 5 estudantes por LP
 
-** Até 5 estudantes por LP (2)
+(2) Até 5 estudantes por LP 
 
 ## No GitHub
 
