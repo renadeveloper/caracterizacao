@@ -9,9 +9,9 @@ Caracterização de linguagens de programação.
 
 https://docs.google.com/spreadsheets/d/1lviHKlzITRJp5B_SmQQzQU8hsKNLKWnD/edit?usp=sharing&ouid=112023691236201550699&rtpof=true&sd=true 
 
-- * Até 5 estudantes por LP	(1)
+* Até 5 estudantes por LP	(1)
 
-- ** Até 5 estudantes por LP (2)
+** Até 5 estudantes por LP (2)
 
 ## No GitHub
 
